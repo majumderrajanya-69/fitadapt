@@ -2,7 +2,7 @@
 
 A fitness tracking web app that builds a workout plan around the user, then adjusts it after every session.
 
-**Live demo:** _add your GitHub Pages link here_
+**Live demo:** (https://majumderrajanya-69.github.io/fitadapt/)
 
 ## How it works
 
