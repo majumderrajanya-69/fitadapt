@@ -4,7 +4,7 @@ A fitness tracking web app that builds a workout plan around the user, then adju
 
 **Live demo:** (https://majumderrajanya-69.github.io/fitadapt/)
 
-   ![FitAdapt screenshot](Screenshot 2026-10-02 142805.png)
+   ![FitAdapt screenshot](screenshot.png)
 
 
 ## How it works
