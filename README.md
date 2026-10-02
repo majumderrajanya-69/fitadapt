@@ -4,6 +4,9 @@ A fitness tracking web app that builds a workout plan around the user, then adju
 
 **Live demo:** (https://majumderrajanya-69.github.io/fitadapt/)
 
+   ![FitAdapt screenshot](Screenshot 2026-10-02 142805.png)
+
+
 ## How it works
 
 1. **Personalise** – the user picks a goal (strength, muscle, endurance), experience level, equipment and training days. The app builds a split and sets starting weights and rep ranges.
